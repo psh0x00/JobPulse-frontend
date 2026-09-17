@@ -24,3 +24,8 @@ dist-ssr
 *.sw?
 
 Mentorship_JobPulse/
+
+# env files
+.env
+.env.*
+!.env.example
